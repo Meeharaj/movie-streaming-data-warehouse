@@ -11,12 +11,15 @@ This project bridges that gap by building an end-to-end data engineering and ana
 ### 1. Executive Insights Matrix (Midnight Theatre UI)
 *Featuring a premium streaming-service dark theme, glass morphism card components, and advanced market-share tracking charts.*
 
-![Executive Insights Dashboard](Dashboards/executive_insights.png)
+<img width="1341" height="736" alt="Page Executive Insights" src="https://github.com/user-attachments/assets/e83f6d64-07cf-477d-8d04-e9cc80f1684a" />
+
+
 
 ### 2. Algorithmic Deep Dive & Platform Stream
 *An interactive diagnostic canvas mapping audience vs. critic sentiment across a custom matrix scatter plot. This view allows media stakeholders to instantly isolate "Cult Classics" (high audience, lower critic scores) from "Critic Darlings" across different streaming ecosystems..*
 
-![Sentimental and Platform Deep-Dive](Dashboards/Sentimental_and_Platform_Deep-Dive.png)
+<img width="1317" height="735" alt="Sentimental and Platform Deep-Dive" src="https://github.com/user-attachments/assets/db26e846-bb0b-4673-a7d1-2540da189896" />
+
 
 ---
 
