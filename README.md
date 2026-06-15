@@ -1,5 +1,5 @@
 
-🎬 Project Overview: End-to-End Movie Warehouse & Streaming Intelligence
+## 🎬 Project Overview: End-to-End Movie Warehouse & Streaming Intelligence
 📌 Executive Summary
 In the digital entertainment industry, media executives and content acquisition teams struggle to analyze library performance due to fragmented data across multiple competing streaming platforms (Netflix, Prime Video, Apple TV+, etc.). Critical metadata—such as genres, directors, and audience vs. critic ratings—is often trapped in unformatted, multi-value text arrays inside flat files, preventing scalable business intelligence.
 
@@ -13,10 +13,10 @@ This project bridges that gap by building an end-to-end data engineering and ana
 
 ![Executive Insights Dashboard](Dashboards/executive_insights.png)
 
-### 2. Algorithmic Deep Dive & Platform Streams
-*Leveraging advanced AI Decomposition Trees and interactive timelines to map content quality metrics across cascading metadata branches.*
+### 2. Algorithmic Deep Dive & Platform Stream
+*An interactive diagnostic canvas mapping audience vs. critic sentiment across a custom matrix scatter plot. This view allows media stakeholders to instantly isolate "Cult Classics" (high audience, lower critic scores) from "Critic Darlings" across different streaming ecosystems..*
 
-![Sentimental and Platform Deep-Dive](Dashboards/Sentimental and Platform Deep-Dive.png)
+![Sentimental and Platform Deep-Dive](Dashboards/Sentimental_and_Platform_Deep-Dive.png)
 
 ---
 
